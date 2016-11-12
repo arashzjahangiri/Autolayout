@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "FB57BAD769666D2CD91B650DB10CB847"
-               BuildableName = "SnapKit.framework"
-               BlueprintName = "SnapKit"
+               BlueprintIdentifier = "A9B99A924002E90DF5025EFF9ED71998"
+               BuildableName = "Pods_AutoLayout.framework"
+               BlueprintName = "Pods-AutoLayout"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -45,9 +45,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "FB57BAD769666D2CD91B650DB10CB847"
-            BuildableName = "SnapKit.framework"
-            BlueprintName = "SnapKit"
+            BlueprintIdentifier = "A9B99A924002E90DF5025EFF9ED71998"
+            BuildableName = "Pods_AutoLayout.framework"
+            BlueprintName = "Pods-AutoLayout"
             ReferencedContainer = "container:Pods.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -60,15 +60,6 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "FB57BAD769666D2CD91B650DB10CB847"
-            BuildableName = "SnapKit.framework"
-            BlueprintName = "SnapKit"
-            ReferencedContainer = "container:Pods.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">

@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Pods.xcscheme</key>
+		<key>Pods-AutoLayout.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
@@ -17,12 +17,12 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>DADEDA1CAB9F998932ABF08230D4BFAB</key>
+		<key>54B2DDF0576623AAB117991D74B6B894</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>FB57BAD769666D2CD91B650DB10CB847</key>
+		<key>A9B99A924002E90DF5025EFF9ED71998</key>
 		<dict>
 			<key>primary</key>
 			<true/>
